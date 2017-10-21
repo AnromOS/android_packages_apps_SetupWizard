@@ -37,7 +37,7 @@ public class FingerprintActivity extends SubBaseActivity {
 
     @Override
     protected void onStartSubactivity() {
-        setNextAllowed(true);
+        setNextAllowed(false);
         findViewById(R.id.setup_fingerprint).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -64,7 +64,7 @@ public class FingerprintActivity extends SubBaseActivity {
     private void launchFingerprintSetup() {
         Intent intent = new Intent(ACTION_SETUP_FINGERPRINT);
         intent.putExtra(EXTRA_FIRST_RUN, true);
-        intent.putExtra(EXTRA_ALLOW_SKIP, true);
+        intent.putExtra(EXTRA_ALLOW_SKIP, false);
         intent.putExtra(EXTRA_USE_IMMERSIVE, true);
         intent.putExtra(EXTRA_THEME, EXTRA_MATERIAL_LIGHT);
         intent.putExtra(EXTRA_AUTO_FINISH, false);
