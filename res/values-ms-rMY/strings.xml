@@ -18,7 +18,59 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Tetapan Konfigurasi</string>
   <!-- Partner SUW Strings -->
+  <string name="next">Selepas</string>
+  <string name="skip">Langkau</string>
+  <string name="start">Mula</string>
+  <string name="done">Selesai</string>
+  <string name="ok">OK</string>
+  <string name="loading">Sebentar</string>
+  <string name="setup_complete">Tetapan selesai</string>
+  <string name="setup_welcome">Selamat Datang</string>
+  <string name="setup_wifi">Pilih Wi-Fi</string>
+  <string name="setup_sim_missing">Kad SIM Hilang</string>
+  <string name="setup_choose_data_sim">Pilih kad SIM untuk data</string>
+  <string name="setup_location">Perkhidmatan lokasi</string>
+  <string name="setup_other">Lain-lain Perkhidmatan</string>
+  <string name="setup_datetime">Tarikh &amp; masa</string>
+  <string name="setup_current_date">Tarikh semasa</string>
+  <string name="setup_current_time">Masa sekarang</string>
+  <string name="sim_missing_summary" product="tablet">Kad SIM tidak dapat dikesan didalam tablet anda. Untuk memasukkan kad SIM, baca arahan yang disertakan bersama peranti anda.</string>
+  <string name="sim_missing_summary" product="default">Kad SIM tidak dapat dikesan didalam tablet anda. Untuk memasukkan kad SIM, baca arahan yang disertakan bersama peranti anda.</string>
+  <string name="choose_data_sim_summary" product="tablet">SIM manakah yang digunakan untuk data? SIM yang dipilih akan dikenakan caj rangkaian bagi mengaktifkan tablet anda.</string>
+  <string name="choose_data_sim_summary" product="default">SIM manakah yang digunakan untuk data? SIM yang dipilih akan dikenakan caj rangkaian bagi mengaktifkan tablet anda.</string>
+  <string name="date_time_summary">Tetapkan zon masa anda dan ubah tarikh semasa dan masa jika diperlukan</string>
+  <string name="backup_data_summary"><b>Sandarkan</b> data aplikasi, kata laluan Wi-Fi, dan tetapan lain untuk pelayan Google</string>
+  <string name="other_services_summary">Perkhidmatan ini meletakkan Google digunakan untuk anda dan boleh diaktifkan atau dinyahaktifkan pada bila-bila masa. Data akan digunakan selaras dengan Google <xliff:g id="name" example="Privacy Policy">%s </xliff:g>.</string>
+  <string name="location_services_summary">Perkhidmatan lokasi membolehkan sistem dan aplikasi pihak ketiga untuk mengumpul dan menggunakan data seperti lokasi anggaran anda. Sebagai contoh, aplikasi ini boleh menggunakan lokasi anggaran anda untuk mengesan kedai-kedai kopi berhampiran anda.</string>
+  <string name="location_access_summary"><b>Membenarkan aplikasi yang meminta kebenaran</b> untuk menggunakan informasi lokasi anda. Termasuk lokasi sekarang dan masa yang terdahulu.</string>
+  <string name="location_battery_saving"><b>Mengurangkan penggunaan bateri</b> dengan menyekat bilangan kemaskini GPS pada setiap jam.</string>
+  <string name="location_network"><b>Gunakan Wi-Fi</b>bagi membantu mendapatkan lokasi anda.</string>
+  <string name="location_network_telephony"><b>Gunakan Wi-Fi dan rangkaian selular</b>bagi membantu mendapatkan lokasi anda.</string>
+  <string name="location_network_gms"><b>Gunakan servis lokasi Google\'s</b>bagi membantu mendapatkan lokasi anda. Ini bermaksud menghantar data tersembunyi lokasi anda kepada Google biarpun tiada aplikasi yang aktif.</string>
+  <string name="setup_mobile_data">Aktifkan data selular</string>
+  <string name="setup_mobile_data_no_service">Tiada Perkhidmatan</string>
+  <string name="setup_mobile_data_emergency_only">Panggilan kecemasan sahaja</string>
+  <string name="enable_mobile_data_summary">Adakah anda mahu menggunakan data selular semasa tetapan? Mengaktifkan data selular mungkin tertakluk kepada caj data anda.</string>
+  <string name="no">Tidak</string>
+  <string name="yes">Ya</string>
+  <string name="data_sim_name">SIM <xliff:g id="sub">%d </xliff:g> - <xliff:g id="name">%s </xliff:g></string>
+  <string name="emergency_call">Panggilan kecemasan</string>
+  <string name="services_privacy_policy">Polisi Privasi</string>
+  <string name="services_os_nav_keys_label"><b>Menggunakan skrin navigasi</b>daripada menggunakan navigasi perkakasan.</string>
   <!-- Fingerprint setup -->
+  <string name="settings_fingerprint_setup_title">Pilih sandaran jenis kunci skrin</string>
+  <string name="settings_fingerprint_setup_details">Bagaimana anda mahu kunci skrin anda?</string>
+  <string name="fingerprint_setup_title">Tetapan cap jari</string>
+  <string name="fingerprint_setup_summary">Untuk menggunakan sensor cap jari bagi membuka kunci skrin, anda memerlukan:</string>
+  <string name="fingerprint_setup_backup_lock_method">Tetapan kedua untuk kaedah membuka kunci</string>
+  <string name="fingerprint_setup_add_fingerprint">Masukkan cap jari anda</string>
+  <string name="fingerprint_setup_screen_lock_setup">Tetapan kekunci skrin</string>
+  <string name="sim_locale_changed">%1$s SIM dikesan</string>
   <!-- secure lock screen -->
+  <string name="settings_lockscreen_setup_title">Pilih jenis kunci skrin</string>
+  <string name="settings_lockscreen_setup_details">Bagaimana anda mahu kunci skrin anda?</string>
+  <string name="lockscreen_setup_title">Lindungi peranti anda</string>
+  <string name="lockscreen_setup_summary"><b>Lindungi peranti ini</b> dan perlukan PIN, paten, atau kata laluan untuk membuka skrin</string>
 </resources>

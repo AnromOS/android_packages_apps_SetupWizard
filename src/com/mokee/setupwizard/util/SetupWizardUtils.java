@@ -45,6 +45,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.ServiceInfo;
 import android.hardware.fingerprint.FingerprintManager;
 import android.os.Binder;
+import android.os.SystemProperties;
 import android.os.UserHandle;
 import android.provider.Settings;
 import android.telephony.ServiceState;
@@ -76,6 +77,8 @@ public class SetupWizardUtils {
     private static final String GMS_PACKAGE = "com.google.android.gms";
     private static final String GMS_SUW_PACKAGE = "com.google.android.setupwizard";
     private static final String GMS_TV_SUW_PACKAGE = "com.google.android.tungsten.setupwraith";
+
+    private static final String PROP_BUILD_DATE = "ro.build.date.utc";
 
     private SetupWizardUtils(){}
 
@@ -359,4 +362,8 @@ public class SetupWizardUtils {
     public static final ComponentName mTvAddAccessorySettingsActivity =
             new ComponentName("com.android.tv.settings",
                     "com.android.tv.settings.accessories.AddAccessoryActivity");
+
+    public static long getBuildDateTimestamp() {
+        return SystemProperties.getLong(PROP_BUILD_DATE, 0);
+    }
 }
