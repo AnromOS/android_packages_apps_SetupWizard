@@ -25,13 +25,13 @@
   <string name="start">Iniciar</string>
   <string name="done">Concluído</string>
   <string name="ok">OK</string>
-  <string name="loading">Só um segundo...</string>
-  <string name="setup_complete">A instalação está completa</string>
+  <string name="loading">Só um segundo\u2026</string>
+  <string name="setup_complete">Instalação concluída</string>
   <string name="setup_welcome">Bem-vindo</string>
-  <string name="setup_locale">Língua</string>
+  <string name="setup_locale">Idioma</string>
   <string name="setup_wifi">Selecionar rede Wi-Fi</string>
   <string name="setup_sim_missing">Falta o cartão SIM</string>
-  <string name="setup_choose_data_sim">Escolha um cartão SIM para dados</string>
+  <string name="setup_choose_data_sim">Escolha um cartão SIM para dados móveis</string>
   <string name="setup_location">Serviços de Localização</string>
   <string name="setup_other">Outros serviços</string>
   <string name="setup_datetime">Data &amp; hora</string>
@@ -63,7 +63,7 @@
   <string name="services_explanation" product="default">Estes serviços servem para ampliar os recursos do seu tablet. Os dados serão utilizados conforme a <xliff:g id="name" example="Privacy Policy">%s</xliff:g> do MoKee\'s.</string>
   <string name="services_privacy_policy">Política de Privacidade</string>
   <string name="services_os_nav_keys_label"><b>Use as teclas de navegação na tela</b> em vez de botões físicos.</string>
-  <string name="services_os_privacy_guard"><b>Ative a Proteção da Privacidade</b> para tornar dados pessoais como contatos, mensagens ou registro de chamadas indisponíveis para aplicativos recém-instalados</string>
+  <string name="services_os_privacy_guard"><b>Ative a Proteção à Privacidade</b> para tornar dados pessoais como contatos, mensagens ou registro de chamadas indisponíveis para aplicativos recém-instalados</string>
   <string name="setup_unlock">Desbloquear</string>
   <string name="setup_device_locked">Este dispositivo foi bloqueado pelo usuário.</string>
   <string name="setup_device_locked_instructions"><i>Para ativar este recurso, on/off, por favor, vá para Configurações &gt; Segurança</i></string>
@@ -75,11 +75,11 @@
   <string name="fingerprint_setup_backup_lock_method">Configurar um método secundário de desbloqueio</string>
   <string name="fingerprint_setup_add_fingerprint">Adicionar sua impressão digital</string>
   <string name="fingerprint_setup_screen_lock_setup">Configurar bloqueio de tela</string>
-  <string name="sim_locale_changed">%1$s SIM detectado</string>
+  <string name="sim_locale_changed">SIM %1$s detectado</string>
   <!-- secure lock screen -->
   <string name="settings_lockscreen_setup_title">Selecione o tipo de bloqueio de tela</string>
   <string name="settings_lockscreen_setup_details">Como você gostaria de bloquear sua tela?</string>
   <string name="lockscreen_setup_title">Proteja seu telefone</string>
-  <string name="lockscreen_setup_summary"><b>Proteger este dispositivo</b> e exija um PIN, padrão ou senha para desbloquear a tela</string>
+  <string name="lockscreen_setup_summary"><b>Proteger este dispositivo</b> e exigir um PIN, padrão ou senha para desbloquear a tela</string>
   <string name="lockscreen_setup_screen_lock_setup">Configurar</string>
 </resources>
