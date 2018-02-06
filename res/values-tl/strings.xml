@@ -18,7 +18,66 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Setup Wizard</string>
   <!-- Partner SUW Strings -->
+  <string name="next">Susunod</string>
+  <string name="skip">Laktawan</string>
+  <string name="start">Simulan</string>
+  <string name="done">Natapos</string>
+  <string name="ok">OK</string>
+  <string name="loading">Sandali lang\u2026</string>
+  <string name="setup_complete">Setup ay kompleto na</string>
+  <string name="setup_welcome">Maligayang pagdating</string>
+  <string name="setup_locale">Wika</string>
+  <string name="setup_wifi">Pumili ng Wi-Fi</string>
+  <string name="setup_sim_missing">SIM car ay nawala</string>
+  <string name="setup_choose_data_sim">Pumili ng SIM para data</string>
+  <string name="setup_location">Mga serbisyo ng lokasyon</string>
+  <string name="setup_other">Iba pang mga serbisyo</string>
+  <string name="setup_datetime">Petsa &amp; oras</string>
+  <string name="setup_current_date">Kasalukuyang petsa</string>
+  <string name="setup_current_time">Kasalukuyang oras</string>
+  <string name="sim_missing_summary" product="tablet">Ang SIM card ay hindi nakita sa iyong tablet. Sa pagpasok ng SIM card, basahin ang mga instruksiyon na kasama sa iyong device.</string>
+  <string name="sim_missing_summary" product="default">Ang isang SIM card ay hindi nakita sa iyong telepono. Sa pag-insert ng SIM card, basahin ang mga instruction na ksama sa iyong device.</string>
+  <string name="choose_data_sim_summary" product="tablet">Aling SIM ang gusto mong gamitin para sa data? Ang napiling SIM ay maaaring magtamo ng network charges dahil gagamitin ito sa pag-set up sa iyong tablet.</string>
+  <string name="choose_data_sim_summary" product="default">Aling SIM ang gusto mong gamitin para sa data? Ang napiling SIM ay maaaring magtamo ng network charges dahil gagamitin ito sa pag-set up sa iyong telepono.</string>
+  <string name="date_time_summary">I-set ang iyong time zone at i-adjust ang kasalukuyang petsa at oras kung kinakailangan</string>
+  <string name="backup_data_summary"><b>I-back up</b> ang app na data, mga password sa Wi-Fi, at iba pang mga setting sa Google servers</string>
+  <string name="other_services_summary">Ang mga serbisyong ito ay nagpapagana sa Google para sa iyo, at maaari mo itong i-off anumang oras. Ang data ay gagamitin alinsunod sa <xliff:g id="name" example="Privacy Policy">%s</xliff:g> ng Google.</string>
+  <string name="location_services_summary">Ang mga serbisyo ng lokasyon ay nagpapahintulot sa sistema at sa mga third party na app upang magkalap at amitin ang data kagaya ng iyong lokasyon. Halimbawa, ang isang app ay maaaring gumamit sa iyong lokasyon upang hanapin ang mga kalapit na coffee shop.</string>
+  <string name="location_access_summary"><b>Pahintulutan ang mga app na humingi sa iyo ng pahintulot</b> upang gamitin ang impormasyon ng iyong lokasyon. Maaaring kasama dito ang iyong kasalukuyang lokasyon at mga nakaraang lokasyon.</string>
+  <string name="location_battery_saving"><b>Bawasan ang konsumo ng baterya</b> sa pamamagitan ng paghihigpit sa bilang ng mga update ng GPS bawat oras.</string>
+  <string name="location_network"><b>Gumamit ng Wi-Fi</b> upang tulungan ang mga app na matukoy ang iyong lokasyon.</string>
+  <string name="location_network_telephony"><b>Gumamit ng Wi-Fi at cellular na network</b> upang tulungan ang mga app na matukoy ang iyong lokasyon.</string>
+  <string name="location_network_gms"><b>Gumamit ng location service ng Google</b> upang tulungan ang mga app na matukoy ang iyong lokasyon. Ito ay nangangahulugan na ipapadala ang anonymous na data ng lokasyon sa Google, kahit na walang app na tumatakbo.</string>
+  <string name="setup_mobile_data">Buksan ang cellular data</string>
+  <string name="setup_mobile_data_no_service">Walang serbisyo</string>
+  <string name="setup_mobile_data_emergency_only">Emergency na mga tawag lamang</string>
+  <string name="enable_mobile_data_summary">Gusto mo bang gamitin ang cellular data sa pag-setup? Ang pag-on sa cellular data ay maaaring magkaroon ng data charges.</string>
+  <string name="no">Hindi</string>
+  <string name="yes">Oo</string>
+  <string name="emergency_call">Emergency na tawag</string>
+  <string name="setup_services">Mga feature ng MoKee</string>
+  <string name="services_explanation" product="tablet">Ang mga serbisyong ito ay gumagana upang palawakin ang mga kakayahan ng iyong tablet. Ang data ay gagamitin alinsunod sa <xliff:g id="name" example="Privacy Policy">%s</xliff:g> ng MoKee.</string>
+  <string name="services_explanation" product="default">Ang mga serbisyong ito ay gumagana upang palawakin ang mga kakayahan ng iyong telepono. Ang data ay gagamitin alinsunod sa <xliff:g id="name" example="Privacy Policy">%s</xliff:g> ng MoKee.</string>
+  <string name="services_privacy_policy">Palihim na patakaran</string>
+  <string name="services_os_nav_keys_label"><b>Gamitin sa mga pindutan ng screen navigation</b> sa halip na mga hardware na pindutan.</string>
+  <string name="services_os_privacy_guard"><b>Paganahin ang Privacy guard</b> upang gawing hindi available sa mga bagong na-install na mga app ang iyong personal na mga data katulad ng mga kontak, mga mensahe o mga log ng tawag</string>
+  <string name="setup_unlock">I-unlock</string>
+  <string name="setup_device_locked">Ang device na ito ay ini-lock ng user.</string>
+  <string name="setup_device_locked_instructions"><i>Upang i-on ang feature na ito, mangyaring pumunta sa Settings &gt; Security</i></string>
   <!-- Fingerprint setup -->
+  <string name="settings_fingerprint_setup_title">Pumili ng klase sa screen lock</string>
+  <string name="settings_fingerprint_setup_details">Paano mo gustong i-lock ang iyong screen?</string>
+  <string name="fingerprint_setup_title">Pag-setup ng fingerprint</string>
+  <string name="fingerprint_setup_summary">Upang gamitin ang iyong fingerprint sensor upang i-unlock ang iyong screen, kinakailangan mo na:</string>
+  <string name="fingerprint_setup_backup_lock_method">Mag-setup ng pangalawang paraan sa pag-unlock</string>
+  <string name="fingerprint_setup_add_fingerprint">Idagdag ang iyong fingerprint</string>
+  <string name="fingerprint_setup_screen_lock_setup">I-setup ang screen lock</string>
+  <string name="sim_locale_changed">%1$s SIM na-detect</string>
   <!-- secure lock screen -->
+  <string name="settings_lockscreen_setup_title">Pumili ng klase sa screen lock</string>
+  <string name="settings_lockscreen_setup_details">Paano mo gustong i-lock ang iyong screen?</string>
+  <string name="lockscreen_setup_title">Protektahan ang iyong telepono</string>
+  <string name="lockscreen_setup_summary"><b>Protektahan ang device</b> at mangailangan ng PIN, pattern, o password upang i-unlock ang screen</string>
 </resources>

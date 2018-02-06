@@ -29,6 +29,7 @@
   <string name="setup_mobile_data">Mobil verilənləri aç</string>
   <string name="setup_mobile_data_no_service">Xidmət yoxdur</string>
   <string name="enable_mobile_data_summary">Quraşdırma vaxtı mobil verilənlərdən istifadə etmək istəyirsiniz? Mobil verilənləri açmaq əlavə ödənişə səbəb ola bilər.</string>
+  <string name="yes">Bəli</string>
   <!-- Fingerprint setup -->
   <!-- secure lock screen -->
 </resources>

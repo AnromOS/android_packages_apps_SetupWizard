@@ -19,6 +19,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Partner SUW Strings -->
+  <string name="next">ಮುಂದಿನ</string>
+  <string name="done">ಮುಗಿಯಿತು</string>
   <string name="ok">ಸರಿ</string>
   <!-- Fingerprint setup -->
   <!-- secure lock screen -->

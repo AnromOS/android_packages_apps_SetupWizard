@@ -19,7 +19,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Partner SUW Strings -->
+  <string name="next">كېيىنكى</string>
   <string name="done">تامام</string>
+  <string name="yes">ھەئە</string>
   <!-- Fingerprint setup -->
   <!-- secure lock screen -->
 </resources>

@@ -28,6 +28,7 @@
   <string name="loading">Chỉ cần một giây\u2026</string>
   <string name="setup_complete">Đã thiết lập xong</string>
   <string name="setup_welcome">Chào mừng</string>
+  <string name="setup_locale">Ngôn ngữ</string>
   <string name="setup_wifi">Chọn Wi-Fi</string>
   <string name="setup_sim_missing">Thiếu thẻ SIM</string>
   <string name="setup_choose_data_sim">Chọn một thẻ SIM cho dữ liệu</string>
@@ -57,8 +58,15 @@
   <string name="yes">Có</string>
   <string name="data_sim_name">SIM <xliff:g id="sub">%d </xliff:g> - <xliff:g id="name">%s </xliff:g></string>
   <string name="emergency_call">Gọi khẩn cấp</string>
+  <string name="setup_services">Tính năng MoKee</string>
+  <string name="services_explanation" product="tablet">Các dịch vụ này giúp mở rộng khả năng làm việc máy tính bảng của bạn. Dữ liệu sẽ được sử dụng theo LineageOS\'s <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
+  <string name="services_explanation" product="default">Các dịch vụ này giúp mở rộng khả năng làm việc máy tính bảng của bạn. Dữ liệu sẽ được sử dụng theo LineageOS\'s <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
   <string name="services_privacy_policy">Chính sách riêng tư</string>
   <string name="services_os_nav_keys_label"><b>Sử dụng các phím điều hướng trên màn hình</b> thay vì các phím phần cứng.</string>
+  <string name="services_os_privacy_guard"><b>Cho phép bảo vệ sự riêng tư</b> để làm cho dữ liệu cá nhân của bạn như danh bạ, tin nhắn hay nhật ký cuộc gọi không có sẵn cho các ứng dụng mới được cài đặt</string>
+  <string name="setup_unlock">Mở khóa</string>
+  <string name="setup_device_locked">Thiết bị này đã bị khóa bởi người dùng.</string>
+  <string name="setup_device_locked_instructions"><i>Để bật tính năng này, xin vui lòng vào cài đặt &gt; bảo mật</i></string>
   <!-- Fingerprint setup -->
   <string name="settings_fingerprint_setup_title">Chọn loại màn hình khóa dự phòng</string>
   <string name="settings_fingerprint_setup_details">Bạn muốn màn hình khóa như thế nào?</string>
@@ -73,4 +81,5 @@
   <string name="settings_lockscreen_setup_details">Bạn muốn màn hình khóa như thế nào?</string>
   <string name="lockscreen_setup_title">Bảo vệ điện thoại của bạn</string>
   <string name="lockscreen_setup_summary"><b>Bảo vệ thiết bị này</b> và yêu cầu một mã PIN, mô hình, hoặc mật khẩu để mở khóa màn hình</string>
+  <string name="lockscreen_setup_screen_lock_setup">Thiết lập</string>
 </resources>

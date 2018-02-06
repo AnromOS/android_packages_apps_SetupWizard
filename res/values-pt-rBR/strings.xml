@@ -39,10 +39,10 @@
   <string name="setup_current_time">Hora atual</string>
   <string name="sim_missing_summary" product="tablet">Não foi encontrado um cartão SIM no seu tablet. Para colocar um cartão SIM, leia as instruções que vieram com seu dispositivo.</string>
   <string name="sim_missing_summary" product="default">Não foi encontrado um cartão SIM no seu celular. Para colocar um cartão SIM, leia as instruções que vieram com seu dispositivo.</string>
-  <string name="choose_data_sim_summary" product="tablet">Qual SIM você gostaria usar para dados? Poderão haver cobranças no SIM escolhido, pois ele será usado para configurar o seu tablet.</string>
-  <string name="choose_data_sim_summary" product="default">Qual SIM você gostaria usar para dados? Poderão haver cobranças no SIM escolhido, pois ele será usado para configurar o seu celular.</string>
+  <string name="choose_data_sim_summary" product="tablet">Qual SIM você gostaria de usar para dados móveis? Poderão haver cobranças no SIM escolhido, pois ele será usado para configurar o seu tablet.</string>
+  <string name="choose_data_sim_summary" product="default">Qual SIM você gostaria de usar para dados móveis? Poderão haver cobranças no SIM escolhido, pois ele será usado para configurar o seu celular.</string>
   <string name="date_time_summary">Defina o fuso horário e ajuste a data e a hora atual, se necessário</string>
-  <string name="backup_data_summary">Efetuar uma <b>cópia de segurança</b> dos dados das aplicações, senhas de acesso de redes sem fios e outras configurações para os servidores do Google</string>
+  <string name="backup_data_summary">Efetuar uma <b>cópia de segurança</b> dos dados dos aplicativos, senhas de Wi-Fi e outras configurações nos servidores do Google</string>
   <string name="other_services_summary">Esses serviços colocam o Google para trabalhar para você, e você pode desligá-los a qualquer momento. Os dados serão usados de acordo com a <xliff:g id="name" example="Privacy Policy">%s</xliff:g> do Google.</string>
   <string name="location_services_summary">Serviços de localização permitem ao sistema e aplicativos de terceiros a obter e usar dados como a sua localização aproximada. Por exemplo, um aplicativo pode usar sua localização aproximada para localizar cafeterias perto de você.</string>
   <string name="location_access_summary"><b>Permitir aplicativos que pediram a sua permissão</b> para usar as suas informações de localização. Isso pode incluir a sua localização atual bem como localizações anteriores.</string>
@@ -59,16 +59,16 @@
   <string name="data_sim_name">SIM <xliff:g id="sub">%d</xliff:g> - <xliff:g id="name">%s</xliff:g></string>
   <string name="emergency_call">Chamada de emergência</string>
   <string name="setup_services">Características do MoKee</string>
-  <string name="services_explanation" product="tablet">Estes serviços servem para ampliar os recursos do seu tablet. Os dados serão utilizados conforme a <xliff:g id="name" example="Privacy Policy">%s</xliff:g> do MoKee\'s.</string>
-  <string name="services_explanation" product="default">Estes serviços servem para ampliar os recursos do seu tablet. Os dados serão utilizados conforme a <xliff:g id="name" example="Privacy Policy">%s</xliff:g> do MoKee\'s.</string>
+  <string name="services_explanation" product="tablet">Estes serviços servem para ampliar os recursos do seu tablet. Os dados serão utilizados conforme a <xliff:g id="name" example="Privacy Policy">%s</xliff:g> do MoKee.</string>
+  <string name="services_explanation" product="default">Estes serviços servem para ampliar os recursos do seu celular. Os dados serão utilizados conforme a <xliff:g id="name" example="Privacy Policy">%s</xliff:g> do MoKee.</string>
   <string name="services_privacy_policy">Política de Privacidade</string>
-  <string name="services_os_nav_keys_label"><b>Use as teclas de navegação na tela</b> em vez de botões físicos.</string>
+  <string name="services_os_nav_keys_label"><b>Usar as teclas de navegação na tela</b> ao invés de botões físicos.</string>
   <string name="services_os_privacy_guard"><b>Ative a Proteção à Privacidade</b> para tornar dados pessoais como contatos, mensagens ou registro de chamadas indisponíveis para aplicativos recém-instalados</string>
   <string name="setup_unlock">Desbloquear</string>
   <string name="setup_device_locked">Este dispositivo foi bloqueado pelo usuário.</string>
-  <string name="setup_device_locked_instructions"><i>Para ativar este recurso, on/off, por favor, vá para Configurações &gt; Segurança</i></string>
+  <string name="setup_device_locked_instructions"><i>Para ativar este recurso liga/desliga, por favor, vá para Configurações &gt; de Segurança</i></string>
   <!-- Fingerprint setup -->
-  <string name="settings_fingerprint_setup_title">Selecione o tipo de bloqueio de tela para cópia de segurança</string>
+  <string name="settings_fingerprint_setup_title">Selecione outro tipo de bloqueio de tela por segurança</string>
   <string name="settings_fingerprint_setup_details">Como você gostaria de bloquear sua tela?</string>
   <string name="fingerprint_setup_title">Configuração de impressão digital</string>
   <string name="fingerprint_setup_summary">Para usar o sensor de impressão digital para desbloqueio de tela, você precisará:</string>

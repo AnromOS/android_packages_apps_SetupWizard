@@ -41,7 +41,7 @@
   <string name="sim_missing_summary" product="default">Aucune carte SIM n\'a été détectée dans votre téléphone. Pour insérer une carte SIM, lisez les instructions fournies avec votre appareil.</string>
   <string name="choose_data_sim_summary" product="tablet">Quelle carte SIM souhaitez-vous utiliser pour les données mobiles ? La carte SIM peut entraîner des frais supplémentaires, car elle sera utilisée pour configurer votre tablette.</string>
   <string name="choose_data_sim_summary" product="default">Quelle carte SIM souhaitez-vous utiliser pour les données mobiles ? La carte SIM sélectionnée peut entrainer des frais supplémentaires, car elle sera utilisée pour configurer votre téléphone.</string>
-  <string name="date_time_summary">Définir votre fuseau horaire et régler la date et l\'heure si nécessaire</string>
+  <string name="date_time_summary">Définir votre fuseau horaire et régler la date et l’heure actuelles si nécessaire</string>
   <string name="backup_data_summary"><b>Sauvegarder</b> les données des applications, les mots de passe Wi-Fi et d\'autres paramètres sur les serveurs Google</string>
   <string name="other_services_summary">Ces services sont mis à disposition par Google, et vous pouvez les activer ou les désactiver à tout moment. Les données seront utilisées conformément à la <xliff:g id="name" example="Privacy Policy">%s</xliff:g> de Google.</string>
   <string name="location_services_summary">Le service de localisation permet aux applications systèmes et tiers de recueillir et d\'utiliser des données comme votre localisation approximatif. Par exemple, une application peut utiliser votre localisation approximatif pour géolocaliser des cafés-restaurants à proximité.</string>

@@ -19,6 +19,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Partner SUW Strings -->
+  <string name="next">अगला</string>
+  <string name="yes">हां</string>
   <!-- Fingerprint setup -->
   <!-- secure lock screen -->
 </resources>

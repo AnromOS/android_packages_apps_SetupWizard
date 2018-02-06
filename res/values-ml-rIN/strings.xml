@@ -19,6 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Partner SUW Strings -->
+  <string name="next">&quot;അടുത്തത്&quot;</string>
   <string name="done">പൂർത്തിയായി</string>
   <string name="ok">ശരി</string>
   <!-- Fingerprint setup -->
