@@ -20,10 +20,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Thuật sĩ Thiết lập</string>
   <!-- Partner SUW Strings -->
-  <string name="next">Tới</string>
+  <string name="next">Tiếp theo</string>
   <string name="skip">Bỏ qua</string>
   <string name="start">Bắt đầu</string>
-  <string name="done">Đã Thực hiện</string>
+  <string name="done">Hoàn tất</string>
   <string name="ok">OK</string>
   <string name="loading">Chỉ cần một giây\u2026</string>
   <string name="setup_complete">Đã thiết lập xong</string>
@@ -31,7 +31,7 @@
   <string name="setup_locale">Ngôn ngữ</string>
   <string name="setup_wifi">Chọn Wi-Fi</string>
   <string name="setup_sim_missing">Thiếu thẻ SIM</string>
-  <string name="setup_choose_data_sim">Chọn một thẻ SIM cho dữ liệu</string>
+  <string name="setup_choose_data_sim">Chọn một thẻ SIM dữ liệu</string>
   <string name="setup_location">Dịch vụ vị trí</string>
   <string name="setup_other">Các dịch vụ khác</string>
   <string name="setup_datetime">Ngày &amp; Giờ</string>
@@ -58,7 +58,7 @@
   <string name="yes">Có</string>
   <string name="data_sim_name">SIM <xliff:g id="sub">%d </xliff:g> - <xliff:g id="name">%s </xliff:g></string>
   <string name="emergency_call">Gọi khẩn cấp</string>
-  <string name="setup_services">Tính năng MoKee</string>
+  <string name="setup_services">Biểu tượng MoKee</string>
   <string name="services_explanation" product="tablet">Các dịch vụ này giúp mở rộng khả năng làm việc máy tính bảng của bạn. Dữ liệu sẽ được sử dụng theo LineageOS\'s <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
   <string name="services_explanation" product="default">Các dịch vụ này giúp mở rộng khả năng làm việc máy tính bảng của bạn. Dữ liệu sẽ được sử dụng theo LineageOS\'s <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
   <string name="services_privacy_policy">Chính sách riêng tư</string>
@@ -71,11 +71,11 @@
   <string name="settings_fingerprint_setup_title">Chọn loại màn hình khóa dự phòng</string>
   <string name="settings_fingerprint_setup_details">Bạn muốn màn hình khóa như thế nào?</string>
   <string name="fingerprint_setup_title">Thiết lập vân tay</string>
-  <string name="fingerprint_setup_summary">Sử dụng cảm biến dấu vân tay của bạn để mở khóa màn hình của bạn, bạn sẽ cần phải:</string>
+  <string name="fingerprint_setup_summary">Sử dụng cảm biến dấu vân tay của bạn để mở khóa màn hình, bạn sẽ cần phải:</string>
   <string name="fingerprint_setup_backup_lock_method">Thiết lập một phương pháp mở khóa phụ</string>
-  <string name="fingerprint_setup_add_fingerprint">Thêm dấu vân tay của bạn</string>
+  <string name="fingerprint_setup_add_fingerprint">Thêm dấu vân tay</string>
   <string name="fingerprint_setup_screen_lock_setup">Thiết lập màn hình khóa</string>
-  <string name="sim_locale_changed">%1$s SIM được phát hiện</string>
+  <string name="sim_locale_changed">Đã phát hiện %1$s SIM</string>
   <!-- secure lock screen -->
   <string name="settings_lockscreen_setup_title">Chọn kiểu khóa màn hình</string>
   <string name="settings_lockscreen_setup_details">Bạn muốn màn hình khóa như thế nào?</string>
